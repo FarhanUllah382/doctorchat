@@ -1,0 +1,22 @@
+# Model weights — too large for GitHub (use HuggingFace Hub instead)
+medical-llama3-adapter/
+medical-llama3-checkpoints/
+outputs/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.ipynb
+
+# Results
+evaluation/results.json
+
+# OS
+.DS_Store
