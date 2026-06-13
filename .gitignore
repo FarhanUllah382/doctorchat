@@ -1,0 +1,23 @@
+# Model weights & adapters (too large for GitHub)
+model/medical-llama3-adapter/
+model/medical-llama3-checkpoints/
+
+# Dataset cache
+data/train/
+data/test/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db

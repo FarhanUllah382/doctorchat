@@ -1,0 +1,13 @@
+transformers==4.44.0
+peft==0.12.0
+trl==0.11.0
+accelerate==0.34.0
+bitsandbytes==0.43.3
+datasets==3.0.0
+huggingface_hub
+wandb
+rouge-score
+einops
+gradio
+torch
+pandas
